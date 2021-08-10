@@ -16,15 +16,21 @@ Before getting started, you should have:
 ### How to Contribute?
 1. **Fork this project repository** - Clik on the fork button (top-right corner of this page) and it will create a copy of this repository on your GitHub account.
 
-![fork](/assets/fork.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/OneSection/newbie/main/assets/fork.png" alt="fork">
+</div>
 
 Now you'll see that a fork has been created under your account.
 
-![fork created](/assets/fork-created.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/OneSection/newbie/main/assets/fork-created.png" alt="fork created">
+</div>
 
 2. **Clone the fork** - Clik the green clone button and copy to URL. 
 
-![clone](/assets/clone.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/OneSection/newbie/main/assets/clone.png" alt="clone">
+</div>
 
 Using git, you can now clone your fork on your computer using the command:
 
