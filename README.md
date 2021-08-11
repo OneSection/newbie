@@ -1,5 +1,9 @@
-# Newbie - OneSection
-Repository for your first Pull Request. 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/OneSection/newbie/main/assets/cover.png" alt="one section newbie cover">
+</div>
+
+# Newbie
+Repository for your first Pull Request 🥇  <br><br>
 
 This repository is divided into different folder, and each folder is a separate project. You can choose to contribute to only one of the listed projects.
 
