@@ -3,18 +3,16 @@
 </div>
 
 # Newbie
-Repository for your first Pull Request 🥇  <br><br>
-
-This repository is divided into different folder, and each folder is a separate project. You can choose to contribute to only one of the listed projects.
+Repository for your first Pull Request 🥇
 
 ## ✅ Requirements
-OneSection is an inclusive community and is open for **everyone**. But this project is specifically for first time contributers, so if you're not a first timer, please contribute to another Project.
+OneSection is an inclusive community and is open for **everyone**. But this project is specifically for first time contributers. Please choose another project to contribute if you are not contributing to an open source project for the first time. Thank you.
 
 > Right now, this is the only repository you can contribute to but we'll soon add more projects so that you can contribute to more advance projects.
 
 ## 🚀 Get Started
 Before getting started, you should have: 
-- [git](https://git-scm.com/) installed on your computer. If you don't have it, install it from [here](https://docs.github.com/en/get-started/quickstart/set-up-git).
+- [git](https://git-scm.com) installed on your computer. If you don't have it, install it from [here](https://docs.github.com/en/get-started/quickstart/set-up-git).
 - a GitHub account. [Sign up](https://github.com/join) for one if you don't have.
 
 ### How to Contribute?
